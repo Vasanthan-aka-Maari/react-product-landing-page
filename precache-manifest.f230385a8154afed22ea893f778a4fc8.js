@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b1e59a92d524dbd6b62f11482851f3f",
+    "revision": "22e3f47c10a60745b43f5b0ecf67595b",
     "url": "/react-product-landing-page/index.html"
   },
   {
-    "revision": "354aa6552dd49fd60830",
+    "revision": "c4bd586a5d0fdaf660a5",
     "url": "/react-product-landing-page/static/css/main.bd2c5ebf.chunk.css"
   },
   {
-    "revision": "a10ff59a7d071e0a3542",
-    "url": "/react-product-landing-page/static/js/2.c92c45db.chunk.js"
+    "revision": "bf99ba5ae203b71a5084",
+    "url": "/react-product-landing-page/static/js/2.22799fbf.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-product-landing-page/static/js/2.c92c45db.chunk.js.LICENSE.txt"
+    "url": "/react-product-landing-page/static/js/2.22799fbf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "354aa6552dd49fd60830",
-    "url": "/react-product-landing-page/static/js/main.15bd5b30.chunk.js"
+    "revision": "c4bd586a5d0fdaf660a5",
+    "url": "/react-product-landing-page/static/js/main.bf34f20b.chunk.js"
   },
   {
     "revision": "60f51e75ea6a87d1259a",
